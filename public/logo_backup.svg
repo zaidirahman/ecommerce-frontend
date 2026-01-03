@@ -1,20 +1,5 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="100%" viewBox="0 0 901 901" enable-background="new 0 0 901 901" xml:space="preserve">
-    <defs>
-        <mask id="circleMask">
-            <circle cx="450.5" cy="450.5" r="450.5" fill="white" />
-        </mask>
-    </defs>
-    
-    <!-- White background circle to ensure opacity -->
-    <circle cx="450.5" cy="450.5" r="450.5" fill="white" />
-    
-    <!-- Aesthetic Blue Border -->
-    <circle cx="450.5" cy="450.5" r="435.5" fill="none" stroke="#77C4EE" stroke-width="30" />
-    
-    <!-- Original Content Scaled and Centered -->
-    <g transform="translate(112.6, 112.6) scale(0.75)">
-        
 <path fill="#FFFEFE" opacity="1.000000" stroke="none" 
 	d="
 M902.000000,477.000000 
@@ -2568,6 +2553,4 @@ M472.993469,492.029083
 	C476.978668,493.146423 476.544586,493.613251 476.110504,494.080109 
 	C475.134888,493.504730 474.159241,492.929352 472.993469,492.029083 
 z"/>
-
-    </g>
 </svg>
